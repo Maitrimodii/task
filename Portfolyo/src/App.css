@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+body.dark {
+  background-color: #222;
+  color: #fff;
+}
+
+body.light {
+  background-color: #fff;
+  color:gra;
+}
+.logo{
+  font-family: Dancing Script;
+  font-weight: 700;
+}
